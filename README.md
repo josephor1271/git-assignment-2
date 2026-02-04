@@ -67,9 +67,9 @@ git pull
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
 
 5. Add, commit, and push your changes:
-git add README.md
-git commit -m "Add controversial opinion"
-git push
+  - git add README.md
+  - git commit -m "Add controversial opinion"
+  - git push
 
 6. Confirm that your controversial statement appears on the `main` branch of **your fork** on GitHub.
 
