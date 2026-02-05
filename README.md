@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-TikTok is the most influential platform in history
+Controversial opinion: TikTok is the most influential platform in history
 
 5. Add, commit, and push your changes:
   - git add README.md
