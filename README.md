@@ -1,5 +1,5 @@
 # welcome
 This is a repo designed to let students freely play around with git commands
 
-My name is Lauren.
+Math and Science College Preparatory, Electrical Engineering
 Pineapple belongs on pizza.
