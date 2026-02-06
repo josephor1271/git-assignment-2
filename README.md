@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+School: University of California, Irvine ; Major: Applied and Computational Mathematics
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Controversial opinion: TikTok is the most influential platform in history
 
 5. Add, commit, and push your changes:
   - git add README.md
@@ -100,7 +100,7 @@ git status \
 If not: \
 git checkout main
 
-2. Create a new branch called `typo-fix`: \
+2. Create a new branch titled `typo-fix`: \
 git checkout -b typo-fix
 
 3. Find **any typo or wording you think could be improved** in this README and fix it.
@@ -110,8 +110,8 @@ git add README.md OR git add . \
 git commit -m "Fix typo in README" \
 git push -u origin typo-fix
 
-5. On GitHub, open a pull request **from `typo-fix` to `main` within your fork**.  \
-Do **not** include my repository in this pull request.
+5. On GitHub, open a pull request from `typo-fix` to `main` within your fork.  \
+Do NOT include my repository in this pull request.
 
 6. Merge the pull request.
 
