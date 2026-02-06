@@ -123,3 +123,5 @@ branch → commit → push → pull request → merge.
 
 School: UT Austin
 Major: Biology
+
+Controversial opinion: Concert tickets these days are too overpriced and honestly for the most part not worth spending money on
