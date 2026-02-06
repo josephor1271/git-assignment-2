@@ -1,5 +1,5 @@
-# git-assignment-2
-
+# welcome
+This is a repo designed to let students freely play around with git commands
 ## Setup
 
 1. Fork this repository on GitHub.
