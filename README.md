@@ -63,7 +63,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+school is lwk fun
 
 5. Add, commit, and push your changes:
   - git add README.md
