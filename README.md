@@ -15,7 +15,7 @@ cd git-assignment-2
 
 ---
 
-## Part 1 (Branching and merging within your fork)
+## Part 1 (Branching and merging within your personal fork)
 
 1. Create a new branch named `writing`:
 git checkout -b writing
@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+University of Houston, Computer Engineering Technology
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -43,7 +43,7 @@ git push
 - It should look like: `main <- writing`
 
 7. Merge the pull request on GitHub.  
-(If GitHub does not let you merge, you likely pull requested upstream by mistake.)
+- (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
 
 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Software Engineering will remain despite AI getting better at coding.
 
 5. Add, commit, and push your changes:
   - git add README.md
