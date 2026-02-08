@@ -15,7 +15,7 @@ cd git-assignment-2
 
 ---
 
-## Part 1 (Branching and merging within your fork)
+## Part 1 (Branching and merging within your personal fork)
 
 1. Create a new branch named `writing`:
 git checkout -b writing
@@ -43,7 +43,7 @@ git push
 - It should look like: `main <- writing`
 
 7. Merge the pull request on GitHub.  
-(If GitHub does not let you merge, you likely pull requested upstream by mistake.)
+- (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
 
 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
