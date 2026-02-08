@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+UNIVERSITY OF TORONTO SCARBOROUGH + NEUROSCIENCE SPECIALIST
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,14 +64,14 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Group projects should be optional..:/
 
 5. Add, commit, and push your changes:
   - git add README.md
   - git commit -m "Add controversial opinion"
   - git push
 
-6. Confirm that your controversial statement appears on the `main` branch of **your fork** on GitHub.
+6. Confirm that your controversial statement appears on the "main" branch of **your fork** on GitHub.
 
 7. On GitHub, go to **Pull Requests** and open a new pull request:
 - From: `your_username/git-assignment-2` `main`
@@ -119,3 +119,4 @@ Do **not** include my repository in this pull request.
 
 If you complete this, you have now practiced the full GitHub workflow twice: \
 branch → commit → push → pull request → merge.
+PRETEND I FIXED SOMETHING HERE 
