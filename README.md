@@ -43,7 +43,7 @@ git push
 - It should look like: `main <- writing`
 
 7. Merge the pull request on GitHub.  
--(If GitHub does not let you merge, you likely pull requested upstream by mistake.)
+- (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
 
 8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
 
