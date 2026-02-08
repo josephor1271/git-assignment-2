@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Software Engineering will remain despite AI getting better at coding.
 
 5. Add, commit, and push your changes:
   - git add README.md
