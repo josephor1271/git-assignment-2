@@ -28,7 +28,8 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Forsyth Central High School — Intended Major: Computer Science
+
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +65,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Grades do not reflect your intelligence
 
 5. Add, commit, and push your changes:
   - git add README.md
