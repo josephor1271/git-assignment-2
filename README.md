@@ -28,7 +28,8 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-Forsyth Central High School, Computer Science
+Forsyth Central High School — Intended Major: Computer Science
+
 
 5. Add, commit, and push your changes: \
 git add README.md \
