@@ -10,7 +10,7 @@ cd git-assignment-2
 4. Open the `git-assignment-2` folder in VSCode.
 5. Open the `README.md` file (this file). You will edit it in VSCode.
 6. **Industry vocabulary**  
-- **origin** = your fork (`your_username/git-assignment-2`)  
+- **origin** = your fork (`Peypey-ryd/git-assignment-2`)  
 - **upstream** = my repository (`josephor1271/git-assignment-2`)
 
 ---
@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Georgetown University, Computer Science major
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Coke Zero is better than Diet Coke
 
 5. Add, commit, and push your changes:
   - git add README.md
