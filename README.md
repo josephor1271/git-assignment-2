@@ -67,7 +67,8 @@
    git pull
 
 4. Add a new line below: \
-   WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+   WRITE A CONTROVERSIAL OPINION YOU HAVE HERE \
+   Vibe code is not that bad if you are willing to learn on the way
 
 5. Add, commit, and push your changes:
 
