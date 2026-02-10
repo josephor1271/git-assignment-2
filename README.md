@@ -103,7 +103,7 @@ git checkout main
 2. Create a new branch called `typo-fix`: \
 git checkout -b typo-fix
 
-3. Find **any typo or wording you think could be improved** in this README and fix it.
+3. Find **any typo or wording you think could be improved** in this README.md file and fix it.
 
 4. Add, commit, and push your changes: \ 
 git add README.md OR git add . \
