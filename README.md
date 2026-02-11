@@ -65,6 +65,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+I prefer cakes over Ice cream as I have sensitive teeth ,which causes my gums to hurt upon eating ice cream.
 
 5. Add, commit, and push your changes:
   - git add README.md
@@ -119,3 +120,5 @@ Do **not** include my repository in this pull request.
 
 If you complete this, you have now practiced the full GitHub workflow twice: \
 branch → commit → push → pull request → merge.
+
+Allen High School + Biomedical / Mechanical Engineering 
