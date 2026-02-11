@@ -66,6 +66,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Clippers are the best nba team rn
 
 5. Add, commit, and push your changes:
   - git add README.md
