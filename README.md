@@ -29,12 +29,13 @@ git push -u origin writing
 
 4. Make a change to the line below in this file: \
 WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+I do not wish to state
 
 5. Add, commit, and push your changes: \
 git add README.md \
 git commit -m "Add school and intended major" \
 git push
-
+My school name is I am not going to say and my major also i not going to say hahha
 6. On GitHub, open a pull request **within your fork**:
 - From: `writing`
 - To: `main`
@@ -65,6 +66,7 @@ git pull
 
 4. Add a new line below: \
 WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Clippers are the best nba team rn
 
 5. Add, commit, and push your changes:
   - git add README.md
