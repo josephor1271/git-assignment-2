@@ -119,3 +119,5 @@ Do **not** include my repository in this pull request.
 
 If you complete this, you have now practiced the full GitHub workflow twice: \
 branch → commit → push → pull request → merge.
+
+Allen High School + Biomedical / Mechanical Engineering 
