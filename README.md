@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+coca cola is better than pepsi (idk)
 
 5. Add, commit, and push your changes:
   - git add README.md
