@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+The University of Melbourne, Australia. Major: Computer Science / Statistics.
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,8 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+
+Pineapple on pizza tastes really fantastic and refreshing.
 
 5. Add, commit, and push your changes:
   - git add README.md
