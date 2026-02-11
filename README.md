@@ -3,8 +3,7 @@
 ## Setup
 
 1. Fork this repository on GitHub.
-2. Open VSCode, open a terminal, and clone **your fork**:
-git clone <your-fork-url>
+2. Open VSCode, open a terminal, and clone your fork using: git clone <your-fork-url>
 3. Change into the repository directory:
 cd git-assignment-2
 4. Open the `git-assignment-2` folder in VSCode.
@@ -28,7 +27,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+Penn State University - Computer Science
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +63,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+College lectures should not be mandatory.
 
 5. Add, commit, and push your changes:
   - git add README.md
