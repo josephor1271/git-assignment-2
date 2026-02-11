@@ -34,7 +34,7 @@ WRITE YOUR SCHOOL + INTENDED MAJOR HERE
 git add README.md \
 git commit -m "Add school and intended major" \
 git push
-
+My school name is I am not going to say and my major also i not going to say hahha
 6. On GitHub, open a pull request **within your fork**:
 - From: `writing`
 - To: `main`
