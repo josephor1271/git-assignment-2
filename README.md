@@ -3,8 +3,7 @@
 ## Setup
 
 1. Fork this repository on GitHub.
-2. Open VSCode, open a terminal, and clone **your fork**:
-git clone <your-fork-url>
+2. Open VSCode, open a terminal, and clone your fork using: git clone <your-fork-url>
 3. Change into the repository directory:
 cd git-assignment-2
 4. Open the `git-assignment-2` folder in VSCode.
