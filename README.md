@@ -45,7 +45,8 @@ git push
 7. Merge the pull request on GitHub.  
 (If GitHub does not let you merge, you likely pull requested upstream by mistake.)
 
-8. After merging, your `main` branch and your `writing` branch on GitHub should look identical.
+8. After merging, the `main` and `writing` branches in your fork should be identical.
+
 
 9. You have now successfully used a branch and merged it into `main`.
 
@@ -64,7 +65,7 @@ git status
 git pull
 
 4. Add a new line below: \
-If the Browns had an above average quarterback, they would be the best team in the NFL
+If the Browns had an above average quarterback, they would be the best team in the NFL.
 
 5. Add, commit, and push your changes:
   - git add README.md
