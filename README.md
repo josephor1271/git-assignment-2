@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+If the Browns had an above average quarterback, they would be the best team in the NFL
 
 5. Add, commit, and push your changes:
   - git add README.md
