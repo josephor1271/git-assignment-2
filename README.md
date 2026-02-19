@@ -81,7 +81,7 @@ WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
 
 8. Submit the pull request.
 
-9. After the due date, I will accept one of the submitted pull requests.
+9. One of the submitted pull requests will be accepted after the due date, but pull requests must be submitted by everyone.
 
 ---
 
@@ -119,3 +119,9 @@ Do **not** include my repository in this pull request.
 
 If you complete this, you have now practiced the full GitHub workflow twice: \
 branch → commit → push → pull request → merge.
+
+
+School: UT Austin
+Major: Biology
+
+Controversial opinion: Concert tickets these days are too overpriced and honestly for the most part not worth spending money on
