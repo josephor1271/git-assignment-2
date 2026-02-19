@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+University of Texas at Dallas + Software Engineering
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -38,7 +38,7 @@ git push
 6. On GitHub, open a pull request **within your fork**:
 - From: `writing`
 - To: `main`
-- Make sure you are **not** pull requesting upstream (my repository).  
+- Make sure you are **not** pull-requesting upstream (my repository).  
   My username should not appear anywhere in the pull request.
 - It should look like: `main <- writing`
 
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Snapchat is the most pointless social media app in existence.
 
 5. Add, commit, and push your changes:
   - git add README.md
