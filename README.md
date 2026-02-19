@@ -28,7 +28,7 @@ It should say you are on branch `writing`.
 git push -u origin writing
 
 4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+McMaster University + Math & Stats
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,7 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+Light mode for coding is better than dark mode for reading multiple lines of code.
 
 5. Add, commit, and push your changes:
   - git add README.md
@@ -103,7 +103,7 @@ git checkout main
 2. Create a new branch called `typo-fix`: \
 git checkout -b typo-fix
 
-3. Find **any typo or wording you think could be improved** in this README and fix it.
+3. Find **any typo or wording you think could be improved** in this README.md file and fix it.
 
 4. Add, commit, and push your changes: \ 
 git add README.md OR git add . \
