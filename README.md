@@ -27,8 +27,8 @@ It should say you are on branch `writing`.
 3. Push this branch to GitHub: \
 git push -u origin writing
 
-4. Make a change to the line below in this file: \
-WRITE YOUR SCHOOL + INTENDED MAJOR HERE
+4. Make a change to the line below in this file
+Townsend Harris + Computer Science 
 
 5. Add, commit, and push your changes: \
 git add README.md \
@@ -64,7 +64,8 @@ git status
 git pull
 
 4. Add a new line below: \
-WRITE A CONTROVERSIAL OPINION YOU HAVE HERE
+
+Pineapple does not belong on pizza
 
 5. Add, commit, and push your changes:
   - git add README.md
